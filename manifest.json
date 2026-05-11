@@ -1,0 +1,11 @@
+{
+  "name": "Phone Barcode Scanner",
+  "short_name": "Barcode Scan",
+  "description": "Phone camera barcode scanner test app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": []
+}
